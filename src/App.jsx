@@ -1,5 +1,5 @@
 import { v4 as uuid } from 'uuid';
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { Container,ToDoList, Input, Button, ListItens, Trash, Check  } from './styles';
 
 
